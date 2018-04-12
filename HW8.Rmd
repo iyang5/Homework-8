@@ -125,4 +125,7 @@ table(knn.20, people2$SleepTrouble)
 
 ```
 
+This confirms what we saw earlier.  k=1 perfectly predicts SleepTrouble and prediction worsens as k increases.
+
+Github respository:  https://github.com/iyang5/Homework-8.git
 
